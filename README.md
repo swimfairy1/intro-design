@@ -7,7 +7,7 @@ This is a repo for keeping track of my [coursework](https://www.learnhowtoprogra
 Week | Topic                                       | Completed
  --- | ------------------------------------------- | ---
 Pre  | Getting Started at Epicodus                 | Sep 22, 2017
-Pre  | Getting Started with Design                 | 
+Pre  | Getting Started with Design                 | Sep 24, 2017
 1    | Design foundations                          |
 2    | User Interface (UI) & atomic design         |
 3    | User Experience (UX) & the design process   |
